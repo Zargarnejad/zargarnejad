@@ -20,9 +20,6 @@ I'm currently a full-stack web development trainee at [HackYourFuture](https://w
 
 I worked as a **customer trainer and support specialist** more than 11 years, where I developed a deep understanding of **real user needs, pain points, and expectations**. This experience, combined with my growing skills in web development, makes me especially focused on **building interfaces that are intuitive, accessible, and human-centered**.
 
----
-
-💻 About Me
 
 - 🌐 Aspiring **front-end developer** with a UX-first mindset
 - 🎨 Familiar with **UX/UI design principles**, wireframing, and responsive layouts
@@ -39,6 +36,7 @@ I worked as a **customer trainer and support specialist** more than 11 years, wh
 - **Design Mindset:** UX/UI thinking, accessibility, responsiveness
 
 ---
+<!--
 
  🌱 I'm currently working on
 
@@ -47,6 +45,7 @@ I worked as a **customer trainer and support specialist** more than 11 years, wh
 - Improving my design-to-code workflow
 
 ---
+-->
 
  🧪 Projects
 
