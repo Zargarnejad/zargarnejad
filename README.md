@@ -53,7 +53,7 @@ Here are a few projects I've built or contributed to:
 
 - 🔦 [Minimal Lightening](https://github.com/Zargarnejad/minimal-lightening) Find, customize and buy minimal lightening
 - 🍽️ [Meal Sharing](https://github.com/Zargarnejad/meal-sharing) Find, share and reserve meals
-- 📖 [Recipe App](https://github.com/Zargarnejad/Recipe-App) – Browse, searh and find your favorite recipes
+- 📖 [Recipe App](https://github.com/Zargarnejad/Recipe-App) – Browse and find your favorite recipes
 
 ---
 
